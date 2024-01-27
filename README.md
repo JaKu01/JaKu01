@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Jannes 👋
 
 <!--
 **JaKu01/JaKu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Computer science student 👨‍🎓
+- Working as a part time full stack dev 💻
+- Experience in web development, as well as iOS/Android apps 📱
+- I'm interested in computer networks in general 📶
+- I'm currently working on my bachelor's thesis, entering the field of networking inside the kernel 
