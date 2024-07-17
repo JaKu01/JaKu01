@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 - Computer science student 👨‍🎓
 - Working as a part time full stack dev 💻
 - Experience in web development, as well as iOS/Android apps 📱
-- I'm interested in computer networks in general 📶
-- I'm currently working on my bachelor's thesis, entering the field of networking inside the kernel 
+- Finished my bachelor's thesis in the field of eBPF and networking
